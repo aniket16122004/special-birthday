@@ -88,8 +88,14 @@ export default function BirthdayCelebration() {
             >
               <div className="text-center overflow-y-auto max-h-64 px-2">
                 <p className="text-purple-700 mb-2">
-                Hello, how are you?, Hope you are doing well as I wish only one thing everyday, with all my heart and belief, to the God that is of your well-being so you gotta be Alright 😄. Let's head to the point as I won't take too much of your precious time, umm... I just wanna say that you really are a kind soul and surely you can have a better person than me, But I really want you to lead me towards the right path and want you to be with me always just like Hinata pushes Naruto to choose the right way and stand with him in every highs and lows no matter what. And just like Eren I've always loved you without letting you know and will always do until the very end. I am such a coward, but what do I do? There's literally no-one in this entire world to make me this nervous as you do, just having a glimpse of you makes my heart beat like a rocket engine, my entire body start trampling, I really want to talk to you in person but I am just unable to face you 🥲
-In the end I just want to say that if you can then please come back and be the reason for me to smile again. I , your Krish, will always wait for you my dear White Angel 😇.
+                Happy Birthday meri jaan ❤️🎂
+Aaj ka din mere liye bhi utna hi special hai jitna tumhare liye, kyunki aaj meri life ka sabse beautiful part iss duniya mein aaya tha 💖
+Tum sirf meri girlfriend nahi ho, tum meri smile ho, meri happiness ho, meri har dua ka jawab ho…
+Jab bhi tum mere saath hoti ho na, sab kuch perfect lagta hai ✨
+Main promise karta hoon ki main hamesha tumhe aise hi pyaar karta rahunga, respect karunga, aur tumhe kabhi akela feel nahi hone dunga 🤍
+Bas tum hamesha aise hi muskurati raho, kyunki tumhari smile meri duniya hai 🥰
+I love you endlessly 💕
+Happy Birthday meri love 💫🎉
                 </p>
                 <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
                 <div className="flex justify-center">
